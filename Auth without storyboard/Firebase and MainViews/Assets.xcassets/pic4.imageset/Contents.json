@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "img1.akspic.ru-apelsin-korichnevyj_cvet-rozovyj-fioletovyj-polutona_i_ottenki-1284x2778.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
